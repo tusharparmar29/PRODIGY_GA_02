@@ -17,7 +17,7 @@ Utilize pre-trained generative models like **Stable Diffusion** to generate high
 "a futuristic robot teaching in a classroom"
 ---
 
-## 📷 Output
+##  Output
 
 ![Generated Image](generated_image.png)
 
@@ -40,12 +40,3 @@ Utilize pre-trained generative models like **Stable Diffusion** to generate high
 5. View and download your generated image.
 
 ---
-
-## 🛠 Requirements (install with pip)
-
-diffusers
-transformers
-torch
-accelerate
-scipy
-safetensors
