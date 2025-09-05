@@ -14,7 +14,6 @@ Utilize pre-trained generative models like **Stable Diffusion** to generate high
 ---
 
 ## 🖊️ Text Prompt Used = "a futuristic robot teaching in a classroom"
-##  Output
 ![Generated Image](generated_image.png)
 
 ---
